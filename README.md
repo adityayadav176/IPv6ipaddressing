@@ -17,7 +17,13 @@ This is an open-source learning project where developers can build real-world sk
 
 ---
 
+### 🚀 Core Modules (Contribution Areas)
 
+#### 1. 🔐 Authentication Module
+- User signup / login system
+- JWT authentication
+- Password hashing (bcrypt)
+- Protected routes & middleware
 
 ---
 
